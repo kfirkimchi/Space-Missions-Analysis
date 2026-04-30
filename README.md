@@ -1,4 +1,4 @@
-*Assignment - EDA report on space missions and launches dataset across the years.
+Assignment - EDA report on space missions and launches dataset 1957-2020
 
 *The dataset (from Kaggle) is a csv file named "mission_launches.csv"
 
